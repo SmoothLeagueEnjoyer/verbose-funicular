@@ -1,6 +1,6 @@
 # Guild Stash History Tool
 
-Upload your guild stash history to see things.
+Upload your guild stash history to see things. Use the GitHub Pages Deployment. Not sure about the below scripts.
 
 ## Available Scripts
 
