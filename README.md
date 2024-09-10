@@ -1,6 +1,9 @@
 # Guild Stash History Tool
 
-Upload your guild stash history to see things. Use the GitHub Pages Deployment. Not sure about the below scripts.
+Upload your guild stash history to see things. Use the GitHub Pages Deployment at
+https://smoothleagueenjoyer.github.io/verbose-funicular/ .  
+
+Not sure about the below scripts. JS was installed by my IDE, but I needed to install and configure Node.js, and npm.
 
 ## Available Scripts
 
